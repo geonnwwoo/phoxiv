@@ -1,0 +1,13 @@
+name: Asian Physics Olympiad
+summary: The Asian version of IPhO, often used by countries to select their IPhO teams.
+icon: 🌏
+tag: Regional
+order: 3
+extraFileTypes:
+  problem:
+    alignmentChart:
+      suffix: "_chart"
+      label: "Alignment Chart"
+    handwrittenSolution:
+      suffix: "_S_H"
+      label: "Solution (Handwritten)"

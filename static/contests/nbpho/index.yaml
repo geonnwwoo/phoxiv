@@ -1,0 +1,10 @@
+name: Nordic-Baltic Physics Olympiad
+summary: The most well-known physics olympiad, attracting participants from 90+ countries
+icon: 🇪🇪
+tag: Regional
+order: 4
+extraFileTypes:
+  year:
+    calibration:
+      suffix: "_C"
+      label: "Calibration"

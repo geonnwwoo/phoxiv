@@ -1,0 +1,10 @@
+name: Singapore Junior Physics Olympiad
+summary: A well-set national olympiad for secondary school students
+icon: 🇸🇬
+tag: National
+order: 12
+extraFileTypes:
+  year:
+    version2:
+      suffix: "_U"
+      label: "Problems (unused)"

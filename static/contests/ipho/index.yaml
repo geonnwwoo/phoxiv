@@ -1,0 +1,14 @@
+name: International Physics Olympiad
+summary: The most well-known physics olympiad, attracting participants from 90+ countries
+icon: 🌐
+tag: International
+order: 2
+extraFileTypes:
+  year:
+    extraMinutes:
+      suffix: "_min2"
+      label: "Extraordinary Minutes"
+  problem:
+    calibration:
+      suffix: "_C"
+      label: "Calibration"

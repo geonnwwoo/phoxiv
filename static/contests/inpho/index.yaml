@@ -1,0 +1,10 @@
+name: Indian National Physics Olympiad
+summary: Second round of selection for the Indian IPhO team.
+icon: 🇮🇳
+tag: National
+order: 11
+extraFileTypes:
+  problem:
+    detailedSolutions:
+      suffix: "_S2"
+      label: "Detailed Solutions"

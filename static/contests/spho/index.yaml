@@ -1,0 +1,13 @@
+name: Singapore Physics Olympiad
+summary: The first round of the selection for IPhO in Singapore
+icon: 🇸🇬
+tag: National
+order: 13
+extraFileTypes:
+  year:
+    paper1:
+      suffix: "_1"
+      label: "Paper 1"
+    paper2:
+      suffix: "_2"
+      label: "Paper 2"
