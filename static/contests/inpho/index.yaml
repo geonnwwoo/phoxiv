@@ -8,3 +8,6 @@ extraFileTypes:
     detailedSolutions:
       suffix: "_S2"
       label: "Detailed Solutions"
+
+description: |
+  The Indian National Physics Olympiad (InPhO) is the second round of selection for the Indian IPhO team. I thank [Ashmit Dutta](https://github.com/aedutta) for writing the detailed solutions for 2011 and 2012.

@@ -11,3 +11,6 @@ extraFileTypes:
     handwrittenSolution:
       suffix: "_S_H"
       label: "Solution (Handwritten)"
+
+description: |
+  Most of the files here are from [Stefan Ivanov's](https://stefanivanov.site/teaching/) archive. Take note of the [errata list](https://stefanivanov.site/teaching/errata.pdf).

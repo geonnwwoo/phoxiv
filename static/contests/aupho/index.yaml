@@ -12,3 +12,7 @@ extraFileTypes:
     SolutionB:
       suffix: "_S_B"
       label: "Solutions (Section B)"
+
+
+description: |
+  [Errata](https://www.physicsforums.com/insights/corrections-to-the-australian-physics-olympiad-questions-and-solutions/)
